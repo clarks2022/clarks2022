@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @clarks2022
 - 👀 I’m interested in Computer Science and Software Engineering
-- 🌱 I’m currently learning Computer Science, Java, Python, Algorithms and Data Structures
+- 🌱 I’m currently learning Computer Science, Python, Algorithms and Data Structures
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me suanernormanclark@gmail.com
 
